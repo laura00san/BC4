@@ -5,4 +5,3 @@ plotly
 streamlit
 requests
 yfinance
-graph_objs
