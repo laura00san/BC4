@@ -4,6 +4,5 @@ pandas
 plotly
 streamlit
 requests
-date
 yfinance
 graph_objs
